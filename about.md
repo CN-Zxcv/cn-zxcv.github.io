@@ -18,8 +18,7 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+此博客用于整理思维，总结经验
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
+欢迎与我联系
+
